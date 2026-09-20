@@ -633,21 +633,3 @@ In this assignment, I used Oracle Database and SQL Developer to analyze the Sunr
 
 I practiced using JOINs, CTEs, and window functions. The queries helped me understand the data better and see how SQL can be used to get useful information for a business.
 
-## Project Structure
-
-```text
-assignment_1_Sunrise_Supermarket/
-│
-├── README.md
-│
-└── screenshots/
-    ├── query1.png
-    ├── query2_1.png
-    ├── query2_2.png
-    ├── query3.png
-    ├── query4.png
-    ├── query5.png
-    ├── query6.png
-    ├── query7.png
-    └── query8.png
-```
